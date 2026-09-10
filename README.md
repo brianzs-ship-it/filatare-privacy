@@ -1,2 +1,2 @@
 # filatare-privacy
-Privacy policy for FilaTare filament tracking app.
+Privacy for FilaTare filament tracking app.
